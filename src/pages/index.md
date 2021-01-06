@@ -9,7 +9,7 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: Building mechanical ⌨️ and ideas around software development.
+    content: Building mechanical keyboards and ideas around software development.
     actions:
       - label: Contact Me
         url: /contact
