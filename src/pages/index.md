@@ -5,7 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Bailey Hayes.'
-    content: "coder | gamer | \U0001F3F3️‍\U0001F308"
+    content: "coder | gamer | ⌨️ | \U0001F3F3️‍\U0001F308"
   - section_id: about
     type: section_content
     title: About
